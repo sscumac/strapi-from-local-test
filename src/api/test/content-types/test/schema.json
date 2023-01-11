@@ -17,6 +17,13 @@
     },
     "Number": {
       "type": "integer"
+    },
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
